@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🔭 I’m currently working on Python,React 
 <!--
 **sudeepsudhevan/sudeepsudhevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![An image of @sudeepsudhevan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeepsudhevan)](https://holopin.io/@sudeepsudhevan)
+
