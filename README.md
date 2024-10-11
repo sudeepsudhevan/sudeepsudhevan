@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  <img height="100px" src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp"/>
+  <img height="200px" src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp"/>
 </p>
 
 
