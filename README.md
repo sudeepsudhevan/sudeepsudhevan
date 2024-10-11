@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🔭 I’m currently working on Python,React 
-🌱 I’m currently learning React, enhancing DSA skills
+- 🔭 I’m currently working on Python,React 
+- 🌱 I’m currently learning React, enhancing DSA skills
 <!--
 **sudeepsudhevan/sudeepsudhevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
