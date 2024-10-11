@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Sudeep Sudhevan
 
 - 🔭 I’m currently working on Python,React 
 - 🌱 I’m currently learning React, enhancing DSA skills
