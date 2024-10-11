@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hacktoberfest 2024](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)
+<p>
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp"/>
+</p>
+
 
