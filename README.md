@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-  <img height="100px" src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp"/>
-</p>
+[![An image of @sudeepsudhevan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeepsudhevan)](https://holopin.io/@sudeepsudhevan)
 
 
