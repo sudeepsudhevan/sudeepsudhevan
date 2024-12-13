@@ -75,7 +75,10 @@ I am a Self-learned Front-end developer transforming to a full stack developer!
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
   </picture>
   </a></p>
-  ###Badges<b>My GitHub Stats</b><a
+  
+  ### Badges
+  <b>My GitHub Stats</b>
+  <a
     href="http://www.github.com/sudeepsudhevan"><img src="https://github-readme-stats.vercel.app/api?username=sudeepsudhevan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sudeepsudhevan's GitHub stats" /></a><a href="https://github.com/sudeepsudhevan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepsudhevan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
                       
 [![An image of @sudeepsudhevan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeepsudhevan)](https://holopin.io/@sudeepsudhevan)
