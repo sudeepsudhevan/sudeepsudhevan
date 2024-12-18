@@ -7,7 +7,7 @@ Frontend Developer
 I am a Self-learned Front-end developer transforming to a full stack developer!
 
 * 🌍  I'm based in Thrissur
-* 🖥️  See my portfolio at [My Portfolio](http://sudeepsudhevan.github.com](https://sudeepsudhevan.github.io/Html-Portfolio-Project/)
+* 🖥️  See my portfolio at [My Portfolio](https://sudeepsudhevan.github.io/Html-Portfolio-Project/)
 * ✉️  You can contact me at [sudeepsudhevan6473@gmail.com](mailto:sudeepsudhevan6473@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
